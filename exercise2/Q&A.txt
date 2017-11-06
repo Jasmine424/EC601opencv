@@ -1,0 +1,2 @@
+The range of R,G,B£¬YCbCr are all 0-255.
+For HSV, Hue range is 0-179, Saturation range is 0-255 and Value range is 0-255.

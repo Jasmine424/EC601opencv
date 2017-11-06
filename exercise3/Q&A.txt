@@ -1,0 +1,1 @@
+According to the result,median filter works better for salt and pepper images and gaussian filter works better for gassian noise images.If the size of kernel becomes bigger, the results of the image becomes more blurred.
