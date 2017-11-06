@@ -1,2 +1,2 @@
 # EC601opencv
-The openCV exercise in EC601 class
+The openCV exercises in EC601 class
