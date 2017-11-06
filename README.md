@@ -1,8 +1,8 @@
-#Introduction to OpenCV
+Introduction to OpenCV
 
-_________________Homework of EC601 Simin Zhai 
+_________________Homework of EC601 copyright@ Simin Zhai 
 
-#Learn how to use basic functions of image processing in OpenCV within Python.
+Learn how to use basic functions of image processing in OpenCV within Python.
 
 Exercise1: about the cvMat and pixel structure.
 
