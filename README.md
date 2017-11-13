@@ -12,4 +12,6 @@ Exercise3: about the tools and models of image filters.
 
 Exercise4: about threshold in image processing
 
+Template Matching: 1.Slide the template image on the source image 2.Calculate NCC at each sliding position 3.Best match: where NCC is maximum
+
 The details of content are shown in the pdf document.
