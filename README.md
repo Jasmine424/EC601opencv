@@ -10,4 +10,6 @@ Exercise2: about the different colorspace
 
 Exercise3: about the tools and models of image filters.
 
+Exercise4: about threshold in image processing
+
 The details of content are shown in the pdf document.
